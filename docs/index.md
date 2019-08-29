@@ -3,12 +3,14 @@ Arma Extended (AExt) adds new and existing features to Arma 3 to increase realis
 
 
 ## Included Mods / Scripts
+
 | [Explosive Ordnance Disposal Suit (EODS)](https://forums.bohemia.net/forums/topic/173102-eods-explosive-ordnance-disposal-suite/) |
 |:-------------|
 | by Monovdd, MrEwok & Juan Lezama – Lancaster Studio |
 | - Adds several new IEDs (with ACE support)<br>- Adds EOD Suit (still WIP)<br>- Adds Talon Mark II (still WIP)<br>- ... more features from this mod will be implemented at a later stage |
 
 ## Special Thanks to
+
 | [Bohemia Interactive](https://www.bohemia.net/games/arma3) |
 |:-------------|
 | For making and maintaining the Arma series (and much more!) |
