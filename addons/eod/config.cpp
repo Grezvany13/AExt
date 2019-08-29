@@ -38,3 +38,5 @@ class CfgPatches {
 #include "CfgSounds.hpp"
 
 #include "CfgUI.hpp"
+
+#include "CfgEventHandlers.hpp"

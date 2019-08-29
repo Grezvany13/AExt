@@ -1023,8 +1023,8 @@ class TALON_MARKII: Talon_Base
 	side=1;
 	faction="EODS_BOT";
 	hiddenSelectionsTextures[]={};
-	class Eventhandlers
-	{
-		init = "if (isServer) then {_ok = _this execVM '\EODS_ieds\funciones\TALON\EODS_TALON_INIT.sqf';};";
-	};
+//	class Eventhandlers
+//	{
+//		init = "if (isServer) then {_ok = _this execVM '\EODS_ieds\funciones\TALON\EODS_TALON_INIT.sqf';};";
+//	};
 };

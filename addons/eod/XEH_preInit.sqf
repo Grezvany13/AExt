@@ -19,8 +19,11 @@ PREP_RECOMPILE_END;
     [DIK_NUMPAD1, [false, false, false]]
 ] call CBA_fnc_addKeybind;
 
+/**
+ * Returns errors on "waitUntil { ! isNull player };" for no reason(?)
+ *
 if (hasInterface) then {
-    waitUntil {!isNull player;};
+    waitUntil { ! isNull player };
 
     player setVariable ["PowerEnabled", true];                                      // Alimentation_Activer
     player setVariable ["RespiratorEnabled", false];                                 // Respirateur_Activer
@@ -36,5 +39,6 @@ if (hasInterface) then {
 
     [_this, "Spawn"] call AEXT_EOD_fnc_cameraCheck;
 };
+*/
 
 ADDON = true;
