@@ -1,4 +1,34 @@
-theme: jekyll-theme-slate
+theme: just-the-docs
 title: AExt - Arma Extended
 description: Arma Extended (AExt) adds new and existing features to Arma 3 to increase realism beyond ACE3
 show_downloads: false
+
+remote_theme: pmarsceill/just-the-docs
+
+# Enable or disable the site search
+# Support true (default) or false
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+    "Fork me on GitHub":
+      - "//github.com/Grezvany13/AExt"
+    "Steam Workshop":
+      - "https://steamcommunity.com/sharedfiles/filedetails/?id=1825149960"
+
+# Heading anchor links appear on hover over h1-h6 tags
+# in page content allowing users to deep link to a particular
+# heading on a page.
+#
+# Supprts true (default) or false/nil
+heading_anchors: false
+
+# Footer content appears at the bottom of every page's main content
+# footer_content: "Copyright &copy; 2019 Johan de Jong (Grezvany13). Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+
+# Color scheme currently only supports "dark" or nil (default)
+# color_scheme: "dark"
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+# ga_tracking: UA-5555555-55
