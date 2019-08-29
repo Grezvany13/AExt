@@ -1,9 +1,8 @@
-_data = _this select 0;
-_unit = _data select 0;
-_selectionName = _data select 1;
-_damage = _data select 2;
-_source = _data select 3;
-_projectile = _data select 4;
+_unit = _this select 0;
+_selectionName = _this select 1;
+_damage = _this select 2;
+_source = _this select 3;
+_projectile = _this select 4;
 
 _explosiveTypeList = [
     "APERSBoundingMine_Range_Ammo",

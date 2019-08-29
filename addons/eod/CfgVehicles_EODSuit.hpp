@@ -4,7 +4,6 @@ class EOD_engineer: B_engineer_F {
     author = "MrEwok";
     displayName= "$STR_AEXT_EOD_Engineer";
     vehicleClass= "EWK_veh_class";
-    engineer = 1;
     attendant = 0;
     uniformAccessories[]= {};
     nakedUniform = "U_BasicBody";
