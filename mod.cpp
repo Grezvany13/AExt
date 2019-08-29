@@ -1,0 +1,14 @@
+name = "ArmA Extended";
+picture = "AExt_logo.paa";
+actionName = "Website";
+action = "https://github.com/Grezvany13/AExt";
+description = "Bugtracker: https://github.com//Grezvany13/AExt/issues<br />Documentation: https://github.com/Grezvany13/AExt/wiki";
+logo = "AExt_logo.paa";
+logoOver = "AExt_logo.paa";
+tooltip = "ArmA Extended";
+tooltipOwned = "ArmA Extended Owned";
+overview = "";
+author = "Grezvany13";
+overviewPicture = "AExt_logo.paa";
+overviewText = "ArmA Extended";
+overviewFootnote = "<br /><br /><t color='#999999'>This work is licensed under ARMA PUBLIC LICENSE SHARE ALIKE (APL-SA).<t />";

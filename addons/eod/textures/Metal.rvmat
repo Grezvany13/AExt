@@ -1,0 +1,4 @@
+specular[] = {10,10,10,1};
+specularPower = 100;
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";

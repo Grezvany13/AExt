@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="AExt">
+    <Package name="eod">
+        <Key ID="STR_AEXT_EOD_units">
+            <English>EOD units</English>
+            <Spanish>EOD units</Spanish>
+            <French>Unités EOD</French>
+        </Key>
+
+        <Key ID="STR_AEXT_EOD_ied01">
+            <English>120mm RCIED</English>
+            <Spanish>RCIED de 120mm</Spanish>
+            <French>120mm RCIED</French>
+        </Key>
+
+        <Key ID="STR_AEXT_EOD_ied02">
+            <English>152mm RCIED</English>
+            <Spanish>RCIED de 152mm</Spanish>
+            <French>152mm RCIED</French>
+        </Key>
+
+        <Key ID="STR_AEXT_EOD_ied03">
+            <English>130mm Double RCIED</English>
+            <Spanish>RCIED Doble de 130mm </Spanish>
+            <French>130mm Double RCIED</French>
+        </Key>
+
+        <Key ID="STR_AEXT_EOD_ied04">
+            <English>RCIED Pipe Bomb</English>
+            <Spanish>Bomba de Tubo RCIED</Spanish>
+            <French>RCIED Pipe Bomb</French>
+        </Key>
+
+        <Key ID="STR_AEXT_EOD_ied05">
+          <English>122mm RCIED</English>
+          <Spanish>RCIED de 122mm</Spanish>
+  		<French>122mm RCIED</French>
+        </Key>
+
+        <Key ID="STR_AEXT_EOD_ied06">
+          <English>RCIED Propane Tank</English>
+          <Spanish>Tanque de Propano RCIED</Spanish>
+  		<French>Bouteille de Gaz</French>
+        </Key>
+
+        <Key ID="STR_AEXT_EOD_ied07">
+          <English>Pipe Shaped Charge</English>
+          <Spanish>Bomba de Tubo Hueca RCIED</Spanish>
+  		<French>Pipe Shaped Charge</French>
+        </Key>
+
+        <Key ID="STR_AEXT_EOD_Engineer">
+            <English>EOD engineer</English>
+            <Spanish>EOD engineer</Spanish>
+            <French>Ingénieur EOD</French>
+        </Key>
+
+        <Key ID="STR_AEXT_EOD_Helmet">
+            <English>EOD Helmet</English>
+            <Spanish>EOD Helmet</Spanish>
+            <French>Casque EOD</French>
+        </Key>
+
+        <Key ID="STR_AEXT_EOD_Uniform">
+            <English>EOD Suit</English>
+            <Spanish>EOD Suit</Spanish>
+            <French>Combinaison EOD</French>
+        </Key>
+
+        <Key ID="STR_AEXT_EOD_Vest">
+            <English>EOD Vest</English>
+            <Spanish>EOD Vest</Spanish>
+            <French>Veste EOD</French>
+        </Key>
+
+        <Key ID="STR_Rebreather">
+            <English>Rebreather</English>
+            <Spanish>Rebreather</Spanish>
+            <French>Respirateur</French>
+        </Key>
+
+        <Key ID="STR_Sound_System">
+            <English>Sound System</English>
+            <Spanish>Sound System</Spanish>
+            <French>Système sonore</French>
+        </Key>
+
+        <Key ID="STR_Rebreather_External_System">
+            <English>Rebreather External System</English>
+            <Spanish>Rebreather External System</Spanish>
+            <French>Système de respiration externe</French>
+        </Key>
+
+        <Key ID="STR_Lights">
+            <English>Lights</English>
+            <Spanish>Lights</Spanish>
+            <French>Lumières</French>
+        </Key>
+
+        <Key ID="STR_Heat_Regulation_System">
+            <English>Heat Regulation System</English>
+            <Spanish>Heat Regulation System</Spanish>
+            <French>Système de ventilation</French>
+        </Key>
+
+        <Key ID="STR_Power">
+            <English>Power</English>
+            <Spanish>Power</Spanish>
+            <French>Alimentation</French>
+        </Key>
+
+        <Key ID="STR_Show_Close_Interface">
+            <English>Show/Close Interface</English>
+            <Spanish>Show/Close Interface</Spanish>
+            <French>Ouvrir/Fermer l'interface</French>
+        </Key>
+
+    </Package>
+</Project>

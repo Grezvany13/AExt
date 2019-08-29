@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="aext">
+    <Package name="aext_main">
+        <Key ID="STR_aext_main_Author">
+            <English>Grezvany13</English>
+            <German>Grezvany13</German>
+            <Japanese>Grezvany13</Japanese>
+            <Chinese>Grezvany13</Chinese>
+            <Chinesesimp>Grezvany13</Chinesesimp>
+            <Portuguese>Grezvany13</Portuguese>
+            <Russian>Grezvany13</Russian>
+            <French>Grezvany13</French>
+            <Polish>Grezvany13</Polish>
+            <Turkish>Grezvany13</Turkish>
+            <Italian>Grezvany13</Italian>
+        </Key>
+        <Key ID="STR_aext_main_URL">
+            <English>https://github.com/Grezvany13/AExt</English>
+            <French>https://github.com/Grezvany13/AExt</French>
+            <Spanish>https://github.com/Grezvany13/AExt</Spanish>
+            <Italian>https://github.com/Grezvany13/AExt</Italian>
+            <Polish>https://github.com/Grezvany13/AExt</Polish>
+            <Russian>https://github.com/Grezvany13/AExt</Russian>
+            <German>https://github.com/Grezvany13/AExt</German>
+            <Czech>https://github.com/Grezvany13/AExt</Czech>
+            <Chinese>https://github.com/Grezvany13/AExt</Chinese>
+            <Portuguese>https://github.com/Grezvany13/AExt</Portuguese>
+            <Korean>https://github.com/Grezvany13/AExt</Korean>
+            <Chinesesimp>https://github.com/Grezvany13/AExt</Chinesesimp>
+            <Turkish>https://github.com/Grezvany13/AExt</Turkish>
+            <Japanese>https://github.com/Grezvany13/AExt</Japanese>
+        </Key>
+    </Package>
+</Project>
