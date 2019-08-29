@@ -18,6 +18,8 @@ class CfgFunctions {
             class restoreSounds {};
             class suppressSounds {};
             class toggleSounds {};
+
+            class EH_ACE_Defuse {};
         };
 	};
 };

@@ -33,6 +33,11 @@ class Tank_F: Tank
 		class Engine;
 		class Movement;
 	};
+    /**
+    class ACE_Actions {
+        class ACE_MainActions {};
+    };
+    **/
 };
 class EWK_Talon_base: Tank_F
 {
@@ -926,6 +931,25 @@ class EWK_Talon_base: Tank_F
 		tex[] = {};
 		mat[] = {"A3\Drones_F\soft_f_gamma\UGV_01\Data\UGV_01_ext.rvmat","A3\Drones_F\soft_f_gamma\UGV_01\Data\UGV_01_ext_damage.rvmat","A3\Drones_F\soft_f_gamma\UGV_01\Data\UGV_01_ext_destruct.rvmat","A3\Drones_F\soft_f_gamma\UGV_01\Data\UGV_01_int.rvmat","A3\Drones_F\soft_f_gamma\UGV_01\Data\UGV_01_int_damage.rvmat","A3\Drones_F\soft_f_gamma\UGV_01\Data\UGV_01_int_destruct.rvmat"};
 	};
+
+    /**
+    class ACE_Actions: ACE_Actions {
+        class ACE_MainActions: ACE_MainActions {
+            class ACE_Explosives_Defuse {
+                displayName = "Defuse";
+                //condition = "";
+                statement = "[player, ACE_Interaction_Target] call ACE_Explosives_fnc_defuseExplosive;";
+                icon = "z\ace\addons\explosives\UI\Defuse_ca.paa";
+            };
+            class ACE_Explosives_Detonate {
+                displayName = "Detonate";
+                //condition = "";
+                statement = "[_this, 100, [ACE_Interaction_Target, 1], 'ACE_Clacker'] call ACE_Explosives_fnc_detonateExplosive;";
+                icon = "z\ace\addons\explosives\UI\Defuse_ca.paa";
+            };
+        };
+    };
+    **/
 };
 class Talon_Base: EWK_Talon_base
 {
